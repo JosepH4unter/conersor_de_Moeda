@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: rgb(100, 224, 255);
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    width: 500px;
+    height: 170px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 0px 8px 19px -7px #000000;
+}
+
+header{
+    padding-top: 20px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:whitesmoke;
+}
